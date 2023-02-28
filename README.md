@@ -9,5 +9,4 @@ Fechamento Bitcoin
 
 
 Selic nos ultimos anos
-
 <img width="798" alt="image" src="https://user-images.githubusercontent.com/114960723/221994022-41ebf3a7-b096-46ec-a07c-c53a4ee8dd07.png">
